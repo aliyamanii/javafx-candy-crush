@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4146ad-4f21-4715-9007-2d10c9c32cd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_settings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/bgMusic.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/emptyHeart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fullHeart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/gameOver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/ExitHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Heart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/MenuButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/ScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/SettingsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aliyamanii/javafxcandycrush/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RcwNiH1iprYS8vf4DcCgf3hZOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4146ad-4f21-4715-9007-2d10c9c32cd0" name="Changes" comment="" />
+      <created>1687562640198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687562640198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
