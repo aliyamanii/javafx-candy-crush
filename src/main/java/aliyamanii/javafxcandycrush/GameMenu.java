@@ -3,6 +3,7 @@ package aliyamanii.javafxcandycrush;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
@@ -81,8 +82,9 @@ public class GameMenu extends Application {
 
 
         Scene scene = new Scene(root, screenWidth, screenHeight);
-//        ScreenController controller = new ScreenController(scene);
         menuStage.setResizable(false);
+        menuStage.getIcons().add(new Image(path.toAbsolutePath() + "\\assets\\icon.png"));
+        menuStage.setTitle("Candy Crush!");
         menuStage.setScene(scene);
         menuStage.show();
     }

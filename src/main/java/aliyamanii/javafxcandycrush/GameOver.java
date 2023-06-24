@@ -1,5 +1,6 @@
 package aliyamanii.javafxcandycrush;
 
+import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.layout.*;
@@ -16,7 +17,7 @@ public class GameOver {
     }
 
     public void handle() {
-        Text endText = new Text("");
+        Text endText = new Text("YOU LOST");
         endText.setStyle("""
                  -fx-font-family: 'Impact', sans-serif;
                     -fx-font-size: 72px;
@@ -27,7 +28,7 @@ public class GameOver {
                     -fx-padding: 20px;\
                 """);
 
-        MenuButton playButton = new MenuButton("Play Again", Color.rgb(0, 191, 255), Color.rgb(30, 144, 255));
+        MenuButton playButton = new MenuButton("Play Again", Color.rgb(255, 30, 30), Color.rgb(196, 44, 44));
         Game playButtonEventHandler = new Game(endStage);
         playButton.setAction(event -> playButtonEventHandler.handle());
 
@@ -37,14 +38,16 @@ public class GameOver {
         System.out.println();
 
         VBox endBox = new VBox(endText, playButton);
-        endBox.setAlignment(Pos.BOTTOM_CENTER);
+        endBox.setAlignment(Pos.TOP_CENTER);
+        endBox.setSpacing(10);
+        endBox.setPadding(Insets.EMPTY);
         StackPane root = new StackPane(endBox);
-        Scene gameScene = new Scene(root, 800, 450);
+        Scene gameScene = new Scene(root, 450, 450);
         endStage.setResizable(false);
         BackgroundImage backgroundImage = new BackgroundImage(
-                new javafx.scene.image.Image(GameMenu.path.toAbsolutePath() + "\\assets\\gameOver.jpg"),
+                new javafx.scene.image.Image(GameMenu.path.toAbsolutePath() + "\\assets\\cryGlob.gif"),
                 BackgroundRepeat.NO_REPEAT, BackgroundRepeat.NO_REPEAT,
-                BackgroundPosition.DEFAULT, BackgroundSize.DEFAULT);
+                BackgroundPosition.CENTER, BackgroundSize.DEFAULT);
         root.setBackground(new Background(backgroundImage));
 
 

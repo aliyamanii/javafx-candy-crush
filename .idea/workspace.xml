@@ -5,45 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4146ad-4f21-4715-9007-2d10c9c32cd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_settings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/bgMusic.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/emptyHeart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fullHeart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/gameOver.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/ExitHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Heart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/MenuButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/ScreenController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/SettingsHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/aliyamanii/javafxcandycrush/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,6 +51,29 @@
       <updated>1687562640198</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
