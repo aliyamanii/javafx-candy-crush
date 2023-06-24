@@ -68,6 +68,8 @@ public class GameMenu extends Application {
 
         // Create the Credits button and add an event handler
         MenuButton creditsButton = new MenuButton("Credits", Color.rgb(60, 179, 113), Color.rgb(50, 205, 50));
+        CreditsHandler creditsButtonEventHandler = new CreditsHandler(menuStage);
+        creditsButton.setAction(event -> creditsButtonEventHandler.handle());
 
 
         MenuButton exitButton = new MenuButton("Exit", Color.rgb(220, 20, 60), Color.rgb(255, 0, 0));

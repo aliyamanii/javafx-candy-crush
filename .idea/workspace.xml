@@ -7,7 +7,8 @@
     <list default="true" id="6c4146ad-4f21-4715-9007-2d10c9c32cd0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/GameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/ScreenController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/creditsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aliyamanii/javafxcandycrush/CreditsHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
